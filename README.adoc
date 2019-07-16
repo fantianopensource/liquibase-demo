@@ -1,0 +1,6 @@
+== Spring Boot Liquibase Sample
+
+This sample demonstrates the liquibase auto-configuration support.
+
+You can look at `http://localhost:8080/actuator/liquibase` to review the list of
+scripts.
